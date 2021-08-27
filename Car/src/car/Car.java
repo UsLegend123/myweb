@@ -15,8 +15,12 @@ public class Car {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("");
-        
+        //Drawing the fast car.
+        System.out.println("VROOM!!________");
+        //"Vroom" for speed.
+        System.out.println("======/ |_| |_\\`.__");
+        System.out.println("=====(===_=====_====)");
+        System.out.println("======`-(_)---(_)--'");
     }
     
 }
