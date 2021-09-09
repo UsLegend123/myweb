@@ -1,11 +1,16 @@
 h1
 {
+	font-family: "Varanda", "Geneva", "Melvetica", sans-serif;
 	color: red;
 	text-align: center;
+	font-size: 2.25em;
 }
 h2
 {
 	color: aqua;
+	font-size: 2em;
+	font-family: "Courier New", monospace;
+	
 }
 
 a
@@ -17,4 +22,11 @@ body
 {
 	color: grey;
 	background-color: black;
+	font-family: "Times New Roman", serif;
+}
+
+p
+{
+	font-size: 1.25em;
+	text-indent: 3em;
 }
