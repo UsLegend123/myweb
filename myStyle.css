@@ -1,21 +1,38 @@
 h1
 {
 	font-family: "Varanda", "Geneva", "Melvetica", sans-serif;
-	color: red;
+	color: #8E0000;
 	text-align: center;
 	font-size: 2.25em;
 }
-h2
+
+.center
 {
-	color: aqua;
-	font-size: 2em;
-	font-family: "Courier New", monospace;
-	
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
-a
+nav li
 {
-	color: red;
+	display: inline;
+	padding-right: 40px;
+}
+
+nav a:link
+{
+	text-decoration: none;
+}
+
+nav a:hover
+{
+	text-decoration: underline;
+}
+
+nav a:active
+{
+	color: white;
+	text-decoration: underline;
 }
 
 body
@@ -25,8 +42,33 @@ body
 	font-family: "Times New Roman", serif;
 }
 
+h2
+{
+	color: aqua;
+	font-size: 2em;
+	font-family: "Courier New", monospace;
+	text-align: center;
+}
+
 p
 {
 	font-size: 1.25em;
-	text-indent: 3em;
+	text-align: center;
 }
+
+div
+{
+	text-align: center;
+}
+
+ul
+{
+	display: inline-block; 
+	text-align: left;
+}
+
+a
+{
+	color: red;
+}
+
