@@ -4,6 +4,9 @@ h1
 	color: #8E0000;
 	text-align: center;
 	font-size: 2.25em;
+	border: outset grey;
+	margin: 10px 250px 10px 250px;
+	padding: 25px
 }
 
 .center
@@ -37,6 +40,7 @@ nav a:active
 
 body
 {
+	background-image: url(../Images/black.jpg);
 	color: grey;
 	background-color: black;
 	font-family: "Times New Roman", serif;
@@ -47,18 +51,21 @@ h2
 	color: aqua;
 	font-size: 2em;
 	font-family: "Courier New", monospace;
-	text-align: center;
+	border: inset grey;
+	margin-right: 50px;
+	padding-left: 10px
 }
 
 p
 {
 	font-size: 1.25em;
-	text-align: center;
 }
 
 div
 {
 	text-align: center;
+	border: double grey;
+	margin: 25px;
 }
 
 ul
