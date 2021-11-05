@@ -56,6 +56,16 @@ h2
 	padding-left: 10px
 }
 
+h3
+{
+	color: aqua;
+	font-size: 2em;
+	font-family: "Courier New", monospace;
+	text-align: center;
+	margin-right: 50px;
+	padding-left: 10px
+}
+
 p
 {
 	font-size: 1.25em;
