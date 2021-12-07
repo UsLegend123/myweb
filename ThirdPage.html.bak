@@ -8,7 +8,7 @@
 		<meta name="description" content="This is a page contains games that Sammy Gonzalez made.">
 		<meta name="keywords" content="Sammy Gonzalez, Samuel Gonzalez, Sam Gonzalez, Student, Four County Programming, CCP Courses, College Credits">
 		
-		<title>CCP Courses</title>
+		<title>Northwest State College Credits</title>
 		
 		<link href = "css/myStyle.css" rel="stylesheet" type = "text/css" />
 		
@@ -16,7 +16,7 @@
 	
 	<!-- The body contains the acutal displayed content of our page -->
 	<body>
-		<h1>Sammy Gonzalez's Games</h1>
+		<h1>Sammy Gonzalez's Recommened CCP Classes</h1>
 		
 		<div>
 			<nav>
@@ -28,6 +28,62 @@
 			</nav>
 		</div>
 		
-		<h3>Northwest State College Credits</h3>
-		
+		<h3>CCP Courses</h3>
+		<table>
+			<tr>
+				<th colspan = "1"><strong>Course Name</strong></th>
+				<th><strong>Course Number</strong></th>
+				<th><strong>Credits</strong></th>
+			</tr>
+			<tr>
+				<td>Database Management</td>
+				<td>CIS109</td>
+				<td>4</td>
+			</tr>
+			<tr>
+				<td>C# Programming</td>
+				<td>CIS161</td>
+				<td>4</td>
+			</tr>
+			<tr>
+				<td>Java Programming</td>
+				<td>CIS165</td>
+				<td>4</td>
+			</tr>
+			<tr>
+				<td>Python Programming</td>
+				<td>EET107</td>
+				<td>3</td>
+			</tr>
+			<tr>
+				<td>Internet Scripting</td>
+				<td>CIS108</td>
+				<td>4</td>
+			</tr>
+			<tr>
+				<td>Computer Operations</td>
+				<td>CIS191</td>
+				<td>3</td>
+			</tr>
+			<tr>
+				<th><strong>Optional Courses</strong></th>
+				<td> </td>
+				<td> </td>
+			</tr>
+			<tr>
+				<td>Microsoft Apps</td>
+				<td>CIS114</td>
+				<td>3</td>
+			</tr>
+			<tr>
+				<td>CCP Math Elective</td>
+				<td> </td>
+				<td>3</td>
+			</tr>
+			<tr>
+				<td>Composition I</td>
+				<td>ENG111</td>
+				<td>3</td>
+			</tr>
+		</table>
 	</body>
