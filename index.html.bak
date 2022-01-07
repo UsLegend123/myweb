@@ -23,6 +23,7 @@
 				<ul>
 					<li><a href = "index.html" title = "Home Page">Main Page</a></li>
 					<li><a href = "SecondPage.html" title = "SecondPage">My Games</a></li>
+					<li><a href = "ThirdPage.html" title = "ThridPage">CCP Courses</a></li>
 				</ul>
 			</nav>
 		</div>
