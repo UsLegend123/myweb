@@ -31,7 +31,7 @@
 		<h3>CCP Courses</h3>
 		<table>
 			<tr>
-				<th colspan = "1"><strong>Course Name</strong></th>
+				<th><strong>Course Name</strong></th>
 				<th><strong>Course Number</strong></th>
 				<th><strong>Credits</strong></th>
 			</tr>
